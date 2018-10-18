@@ -1,0 +1,15 @@
+# Notice: This template has only been tested 
+# under Python27 + GAE standard environment
+application: record-shelf-app
+runtime: python27
+version: 1
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: record_collection.app
+
+libraries:
+- name: flask
+  version: 0.12
