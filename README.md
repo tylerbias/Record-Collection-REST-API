@@ -1,6 +1,8 @@
 # Record-Collection-REST-API
 Record Collection REST API - Tyler Bias, Final Project, Oregon State University 2018
 
+Python, Flask, Google NoSQL Cloud Datastore
+
 Video demonstrating app functionality using hardcoded account tokens:
 https://www.youtube.com/watch?v=g3dMY6wzK9k
 
